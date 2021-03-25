@@ -5,6 +5,8 @@
 
 Some text below heading 1.
 
+![](diagrams/test.dot.svg)
+
 ## Heading 1.1
 
 Some more text in a sub heading called heading 1.1. This sub heading belongs to heading 1, which is the heading located
