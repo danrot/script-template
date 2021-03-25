@@ -5,7 +5,9 @@
 
 Some text below heading 1.
 
-![](diagrams/test.dot.svg)
+![A sample caption](diagrams/test.dot.svg){#fig:test}
+
+Something is shown in [@fig:test].
 
 ## Heading 1.1
 
