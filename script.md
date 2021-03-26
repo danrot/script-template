@@ -3,7 +3,8 @@
 
 # Heading 1
 
-Some text below heading 1.
+Some text below heading 1. This file will be converted using Pandoc[@pandoc2021] and referencing bibliography using
+BibText[@bibtex2021]. Books[@vernon2013] can also be referenced.
 
 ![A sample caption](diagrams/test.dot.svg){#fig:test}
 
