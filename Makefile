@@ -6,6 +6,9 @@ script: script.md ${addsuffix .svg, ${wildcard diagrams/*.dot}}
 	    --toc\
 	    --number-sections\
 	    --filter pandoc-crossref\
+	    -M codeBlockCaptions=true\
+	    -M listings=true\
+	    --listings\
 	    --citeproc\
 	    --csl iso690-numeric-en.csl\
 	    --bibliography sources.bib\
