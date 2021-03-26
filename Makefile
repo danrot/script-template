@@ -9,6 +9,7 @@ script: script.md ${addsuffix .svg, ${wildcard diagrams/*.dot}}
 	    --citeproc\
 	    --csl iso690-numeric-en.csl\
 	    --bibliography sources.bib\
+	    -V links-as-notes=true\
 	    -V geometry:margin=2cm\
 	    -V lof\
 	    -o script.pdf\

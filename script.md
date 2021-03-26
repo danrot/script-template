@@ -10,6 +10,8 @@ BibText[@bibtex2021]. Books[@vernon2013] can also be referenced.
 
 Something is shown in [@fig:test].
 
+[Inline links](http://www.example.org) are also supported!
+
 ## Heading 1.1
 
 Some more text in a sub heading called heading 1.1. This sub heading belongs to heading 1, which is the heading located
