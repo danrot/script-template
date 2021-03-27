@@ -1,0 +1,3 @@
+[submodule "markdown-script"]
+	path = markdown-script
+	url = git@github.com:danrot/markdown-script.git
